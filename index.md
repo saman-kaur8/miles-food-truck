@@ -10,6 +10,24 @@ sections:
   actions:
   - label: learn more
     url: "/our-vision"
+- template: section_features
+  bg: gray
+  type: section_features
+  section_id: features
+  title: Vision-Stratgies-Risks-Marketing-Finance
+  featureslist:
+  - title: Our Vision
+    content: The vision statement clears that the focus is to serve customers with
+      the best quality healthy food and friendly environment. And also to ensure that
+      each customer receives prompt, friendly and courteous service. Preparing nutritional
+      and fresh meals using only quality ingredients. Focus would also be on maintaining
+      the high quality attitude, fairness, understanding and generosity between the
+      management, staff and customers.
+    image: ''
+    actions:
+    - label: Learn more
+      url: "/Our-Vision"
+  subtitle: ''
 - template: section_content
   bg: gray
   type: section_content
