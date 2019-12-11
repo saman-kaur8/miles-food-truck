@@ -35,6 +35,15 @@ sections:
     actions:
     - label: 'Learn More '
       url: "/Stratagies"
+  - title: Risks
+    content: Food truck may seem an easy business opportunity for the viewers, but
+      it involves a risk as well. One must take the risk while talking about food.
+      From food quality to paying taxes everything carries a huge risk with itself
+      in field of food.
+    image: "/images/highrisk_1000x565-550x311.jpg"
+    actions:
+    - label: 'Learn more '
+      url: "/Risks"
   subtitle: ''
 - template: section_content
   bg: gray
