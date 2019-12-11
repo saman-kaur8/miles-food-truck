@@ -27,11 +27,13 @@ sections:
   actions: []
 - template: section_hero
   type: section_hero
-  section_id: ''
-  title: ''
-  content: ''
-  image: ''
-  actions: []
+  section_id: hero
+  title: Miles Food Truck
+  content: '"Good Food Good Mood"'
+  image: "/images/98-986782_food-truck-park-food-truck-transparent-background.png"
+  actions:
+  - label: learn more
+    url: "/our-vision"
 layout: landing
 menu:
   main:
