@@ -44,6 +44,18 @@ sections:
     actions:
     - label: 'Learn more '
       url: "/Risks"
+  - title: Marketing
+    content: This venture will attract those people who are willing to add healthy
+      and delicious food to their daily routine. As in the fastmoving world everyone
+      has their own eating habits which are mostly like that the
+    image: "/images/Social-Food.jpg"
+    actions:
+    - label: 'Learn more '
+      url: "/Marketing"
+  - title: ''
+    content: ''
+    image: ''
+    actions: []
   subtitle: ''
 - template: section_content
   bg: gray
