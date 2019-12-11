@@ -3,7 +3,6 @@ layout: page
 title: Risks
 subtitle: ''
 img_path: ''
-published: false
 
 ---
 **Major Risks**
