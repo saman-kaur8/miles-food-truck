@@ -52,10 +52,14 @@ sections:
     actions:
     - label: 'Learn more '
       url: "/Marketing"
-  - title: ''
-    content: ''
-    image: ''
-    actions: []
+  - title: 'Finance '
+    content: According to my research, an average food truck requires $3,50,000 approximately
+      for the startup. Even if the pay rate for the employees is in between $14 -$30
+      per hour.
+    image: "/images/Momentum-Series-Interview-PF-Geeks-Finances-Food-And-Frugality.jpg"
+    actions:
+    - label: 'Learn more '
+      url: "/Finances"
   subtitle: ''
 - template: section_content
   bg: gray
