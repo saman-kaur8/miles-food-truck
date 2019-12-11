@@ -59,7 +59,7 @@ sections:
     image: "/images/Momentum-Series-Interview-PF-Geeks-Finances-Food-And-Frugality.jpg"
     actions:
     - label: 'Learn more '
-      url: "/Finances"
+      url: "/Finance"
   subtitle: ''
 - template: section_content
   bg: gray
