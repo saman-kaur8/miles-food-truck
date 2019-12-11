@@ -27,7 +27,7 @@ sections:
     actions:
     - label: Learn more
       url: "/Our-Vision"
-  - title: 'Sttratagies '
+  - title: 'Stratagies '
     content: This venture will come under **differentiation strategy**, whereas this
       will attract not only Indian people but also local people in the city. Meals
       provided by this venture will be different than other food in the city.
