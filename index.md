@@ -23,7 +23,7 @@ sections:
       and fresh meals using only quality ingredients. Focus would also be on maintaining
       the high quality attitude, fairness, understanding and generosity between the
       management, staff and customers.
-    image: ''
+    image: "/images/healthy-food-cartoon-representing-some-funny-vegetables-74478939.jpg"
     actions:
     - label: Learn more
       url: "/Our-Vision"
