@@ -25,6 +25,13 @@ sections:
   content: ''
   image: ''
   actions: []
+- template: section_hero
+  type: section_hero
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
 layout: landing
 menu:
   main:
