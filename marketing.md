@@ -3,6 +3,10 @@ layout: page
 title: 'Marketing '
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 5
+    title: Marketing
 
 ---
  **The customer and the target segment.**

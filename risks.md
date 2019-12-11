@@ -3,6 +3,9 @@ layout: page
 title: Risks
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 4
 
 ---
 **Major Risks**
